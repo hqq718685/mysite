@@ -42,4 +42,8 @@ if __name__ == "__main__":
 			URL(IPADDRESS)
 	        else:
 	                print "IP 地址不合法，请重新输入！"
+					
+					
+1
+23242354363        5435432
 
